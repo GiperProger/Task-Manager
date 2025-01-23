@@ -1,0 +1,17 @@
+{
+    "name": "sergeypryadkin/task-manager",
+    "description": "Simple task mamager based on clean PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "giperproger",
+            "email": "giperproger@gmail.com"
+        }
+    ],
+    "require": {}
+}
